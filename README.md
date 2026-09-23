@@ -1,21 +1,19 @@
-# 🌬️ MelloBand
+# MelloBand
 
-*A tiny wearable that teaches little lungs how to chill out.*
-
-**MelloBand v1.0 (2026)**, designed & built by Adie Guo
+**MelloBand v1.0 (2026)**, designed & built by Adie Guo and commissioned by Mello. LLC
 
 ---
 
 ## What is it?
 
-MelloBand is a wearable breathing buddy for kids. Strap it on, and when big feelings show up, it walks them through a breathing exercise with a gentle glow and a friendly buzz. No screens, no apps, just a soft pulse to follow.
+MelloBand is a wearable breathing band for kids to manage anxiety or just calm themselves. It walks them through a breathing exercise with a gentle haptic vibration and light, away from screens and apps.
 
 ### Features
-- 🌈 **Pulsating RGB LEDs**: breathe in, glow brightens; breathe out, glow softens. A visual rhythm to follow instead of a countdown.
-- 🎵 **Patterned haptic buzzes**: three motors work together to give each breathing phase (inhale, hold, exhale) its own distinct feel.
-- 🔘 **One-button mode toggle**: simple, kid-proof interaction. No menus to get lost in.
-- 🔋 **Rechargeable over USB**: soldered-on battery, standard USB charging, an RGB charge-status light so it's always obvious when it needs a top-up.
-- 🧠 **Custom firmware brain**: an STM32F413 running a phase-based state machine, so exercises can be tuned, extended, or swapped without touching hardware.
+- **RGB LEDs**: breathe in, glow brightens; breathe out, glow softens. A visual rhythm to follow instead of a countdown.
+- **Haptic feed back patterns**: three motors work together to give each breathing phase (inhale, hold, exhale) its own distinct feel.
+- **One-button mode toggle**: simple, kid-proof interaction. No menus to get lost in.
+- **Rechargeable over USB**: soldered-on battery, standard USB charging, an RGB charge-status light.
+- **Custom firmware**: an STM32 running a phase-based state machine, so exercises can be tuned, extended, or swapped without touching hardware.
 
 ---
 
@@ -62,4 +60,4 @@ Firmware lives in a companion repository: a phase-based state machine that chore
 
 ## Revision
 
-- **v1.0** (2026): first board spin, first breaths 🌱
+- **v1.0** (2026): first breaths!
