@@ -1,4 +1,4 @@
-# MelloBand
+# MelloBand Hardware
 
 **MelloBand v1.0 (2026)**, designed & built by Adie Guo and commissioned by Mello. LLC
 
